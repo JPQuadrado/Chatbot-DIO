@@ -1,0 +1,24 @@
+{
+  "name": "chatbot-dio",
+  "version": "1.0.0",
+  "description": "Projeto do bootcamp da DIO, construindo um ChatbotFit no Telegram com JavaScript e NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JPQuadrado/Chatbot-DIO.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JPQuadrado/Chatbot-DIO/issues"
+  },
+  "homepage": "https://github.com/JPQuadrado/Chatbot-DIO#readme",
+  "dependencies": {
+    "dialogflow": "^1.2.0",
+    "node-telegram-bot-api": "^0.51.0",
+    "youtube-node": "^1.3.3"
+  }
+}
